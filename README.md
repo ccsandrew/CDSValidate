@@ -15,22 +15,17 @@ I hate getting edits.&nbsp; I especially hate getting the same edits show after 
 ==Dependencies==
 (scripts must be loaded in this same order as well)
 
-# jQuery Library(1.8.2 or higher)
-# jQuery validator plugin (now at <A href="http://jqueryvalidation.org/">__<FONT color=#0066cc>http://jqueryvalidation.org/</FONT>__</A>&nbsp;- but this is the orignal one by Jorn Zaefferer)
-# CDSValidate plugin (sos->cds core-> CoreJS->jquery.validate.CDSValidate.js) 
+jQuery Library(1.8.2 or higher)
+jQuery validator plugin (now at <A href="http://jqueryvalidation.org/">__<FONT color=#0066cc>http://jqueryvalidation.org/</FONT>__</A>&nbsp;- but this is the orignal one by Jorn Zaefferer)
+CDSValidate plugin (sos->cds core-> CoreJS->jquery.validate.CDSValidate.js) 
 
 ==Helpful, but not required==
-
-
-# familiarty with the jQuery Validator plugin
-# div-based form layout.&nbsp;
-# CSS framework such as Zurb foundation or Twitter Bootstrap.&nbsp; This will ensure aesthetically pleasing error messages.
+familiarty with the jQuery Validator plugin
+div-based form layout.&nbsp;
+CSS framework such as Zurb foundation or Twitter Bootstrap.&nbsp; This will ensure aesthetically pleasing error messages.
 
 ==Demonstration==
-
-
 [https://dev1.cdsreg.com/register/CDSValidate_test/demo/main.html]
 
 ==Basic Implementation==
-
 <P class=separator>Click on the demo link above, and then click the 'implementation steps' link&nbsp;at the bottom of the page. &nbsp;
