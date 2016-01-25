@@ -1,4 +1,4 @@
-==Description==
+===Description===
 This is a jQuery plugin that validates things that seem to be universal on CDS reginfo pages.&nbsp;&nbsp; It builds upon the jQuery Validator plugin and is therefore dependent on it.&nbsp; With your adding of&nbsp;as little as 24 characters of code, this plugin will
 
 * Make sure Email and ConfEmail match
